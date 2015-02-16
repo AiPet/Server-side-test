@@ -12,7 +12,11 @@
     "express": "~4.11.1",
     "jade": "~1.9.1",
     "less-middleware": "1.0.x",
+    "mongoose": "^3.8.23",
+    "mongoose-minid": "^1.1.2",
     "morgan": "~1.5.1",
+    "passport": "^0.2.1",
+    "passport-http-bearer": "^1.0.1",
     "serve-favicon": "~2.2.0"
   },
   "description": "Traking device for pets",
